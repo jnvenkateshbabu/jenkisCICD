@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.572" tests="2" skipped="0" failures="0" errors="0">
+<testcase classname="verify the student qualification" name="Eligibility of medicine" time="0.055">
+<system-out><![CDATA[
+Given student should be high mark in all subject............................passed
+And and above 1150..........................................................passed
+Given bio che phy mark is high..............................................passed
+When yes bio criteria matched...............................................passed
+Then qualified for medicine.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="verify the student qualification" name="Eligibility of engineering" time="0.011">
+<system-out><![CDATA[
+Given student should be high mark in all subject............................passed
+And and above 1150..........................................................passed
+Given math che phy mark is high.............................................passed
+When yes math criteria matched..............................................passed
+Then qualified for engineering..............................................passed
+]]></system-out>
+</testcase>
+</testsuite>
