@@ -7,9 +7,7 @@
                 <version>2.22.2</version>
                 <configuration>
                     <includes>
-                        <include>**/*Test.java</include>
-                        <include>**/*Tests.java</include>
-                        <include>**/*TestCase.java</include>
+<include>**/LoginRunnerClass.java</include>
                     </includes>
                 </configuration>
 		</plugin>
